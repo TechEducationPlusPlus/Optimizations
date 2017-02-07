@@ -1,0 +1,14 @@
+This zip file contains optimized resources for https://techedu.cf/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/font-awesome.css: https://techedu.cf/assets/plugins/font-awesome/css/font-awesome.css
+css/github-calendar.css: https://techedu.cf/assets/plugins/github-calendar/dist/github-calendar.css
+image/profile.png: https://techedu.cf/assets/images/profile.png
+image/iasen_georgiev.jpg: https://techedu.cf/members/img/iasen_georgiev.jpg
+image/no_profile.png: https://techedu.cf/members/img/no_profile.png
+image/academy.png: https://techedu.cf/assets/images/projects/academy.png

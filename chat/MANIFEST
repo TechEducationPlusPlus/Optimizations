@@ -1,0 +1,31 @@
+This zip file contains optimized resources for https://chat.techedu.cf/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+js/socket.io.js: https://chat.techedu.cf/media/dist/vendor/socket.io/socket.io.js
+js/jquery.js: https://chat.techedu.cf/media/dist/vendor/jquery/jquery.js
+js/sweet-alert.js: https://chat.techedu.cf/media/dist/vendor/sweetalert/sweet-alert.js
+js/jquery.validate.js: https://chat.techedu.cf/media/dist/vendor/jquery-validate/jquery.validate.js
+js/lodash.js: https://chat.techedu.cf/media/dist/vendor/lodash/lodash.js
+js/backbone.js: https://chat.techedu.cf/media/dist/vendor/backbone/backbone.js
+js/moment.js: https://chat.techedu.cf/media/dist/vendor/moment/moment.js
+js/handlebars.js: https://chat.techedu.cf/media/dist/vendor/handlebars/handlebars.js
+js/bootstrap.js: https://chat.techedu.cf/media/dist/vendor/bootstrap/bootstrap.js
+js/store.js: https://chat.techedu.cf/media/dist/vendor/store.js/store.js
+js/jvfloat.js: https://chat.techedu.cf/media/dist/vendor/JVFloat/jvfloat.js
+js/dropzone.js: https://chat.techedu.cf/media/dist/vendor/dropzone/dropzone.js
+js/selectize.js: https://chat.techedu.cf/media/dist/vendor/selectize/selectize.js
+js/desktop-notifications.js: https://chat.techedu.cf/media/dist/vendor/notifications/desktop-notifications.js
+js/favico.js: https://chat.techedu.cf/media/dist/vendor/favico.js/favico.js
+js/jquery.caret.js: https://chat.techedu.cf/media/dist/vendor/at/jquery.caret.js
+js/jquery.atwho.js: https://chat.techedu.cf/media/dist/vendor/at/jquery.atwho.js
+js/backbone.keys.js: https://chat.techedu.cf/media/dist/vendor/backbone.keys/backbone.keys.js
+js/vendor.js: https://chat.techedu.cf/media/dist/vendor.js
+js/md5.js: https://chat.techedu.cf/media/dist/vendor/md5/md5.js
+js/login.js: https://chat.techedu.cf/media/dist/login.js
+image/fishing.jpg: https://chat.techedu.cf/media/img/photos/fishing.jpg
+image/photo-overlay.png: https://chat.techedu.cf/media/img/photo-overlay.png
